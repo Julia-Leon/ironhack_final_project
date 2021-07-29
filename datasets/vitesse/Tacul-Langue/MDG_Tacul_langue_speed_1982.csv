@@ -1,0 +1,5 @@
+profile_name,stake_year_setup,stake_number,day_start,month_start,year_start,x_lambert2e_start,y_lambert2e_start,altitude_start,day_end,month_end,year_end,x_lambert2e_end,y_lambert2e_end,altitude_end,annual_speed
+Mer_de_Glace_histo,1981,6,5,9,1981,957136.41,110878.11,2128.06,17,9,1982,957107.77,111011.52,2102.75,132.11
+Mer_de_Glace_histo,1981,52,5,9,1981,956907.69,109734.76,2218.69,16,9,1982,956940.46,109865.5,2210.59,130.84
+Mer_de_Glace_histo,1981,53,5,9,1981,956903.3,109517.75,2235.51,16,9,1982,956921.93,109674.97,2223.44,153.69
+Mer_de_Glace_histo,1981,54,5,9,1981,956895.87,109370.4,2249.22,16,9,1982,956899.4,109549.02,2232.53,173.43

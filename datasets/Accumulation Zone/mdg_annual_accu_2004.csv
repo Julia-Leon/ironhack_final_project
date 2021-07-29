@@ -1,0 +1,5 @@
+profile_name,stake_year_setup,stake_number,day_start,month_start,year_start,day_end,month_end,year_end,x_lambert2e,y_lambert2e,altitude,annual_smb
+acum,2004,2,15,9,2003,9,9,2004,953210.0,106820.0,3530.0,2.33
+acum,2004,4,15,9,2003,9,9,2004,955430.0,105770.0,3090.0,0.23
+acum,2004,5,15,9,2003,9,9,2004,956070.0,106430.0,2930.0,0.68
+acum,2004,10,15,9,2003,9,9,2004,954792.0,105625.0,3130.0,1.16

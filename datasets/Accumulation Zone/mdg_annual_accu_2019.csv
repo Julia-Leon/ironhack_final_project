@@ -1,0 +1,5 @@
+profile_name,stake_year_setup,stake_number,day_start,month_start,year_start,day_end,month_end,year_end,x_lambert2e,y_lambert2e,altitude,annual_smb
+acum,2019,2,5,9,2018,17,9,2019,953210.0,106820.0,3530.0,1.87
+acum,2019,5,5,9,2018,17,9,2019,956070.0,106430.0,2930.0,0.11
+acum,2019,9,5,9,2018,17,9,2019,954356.0,106064.0,3220.0,0.37
+acum,2019,10,5,9,2018,17,9,2019,954792.0,105625.0,3130.0,0.3

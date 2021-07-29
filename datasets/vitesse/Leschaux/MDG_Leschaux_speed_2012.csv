@@ -1,0 +1,4 @@
+profile_name,stake_year_setup,stake_number,day_start,month_start,year_start,x_lambert2e_start,y_lambert2e_start,altitude_start,day_end,month_end,year_end,x_lambert2e_end,y_lambert2e_end,altitude_end,annual_speed
+Leschaux,2010,1,7,9,2011,960332.1,108658.33,2636.45,6,9,2012,960393.93,108751.63,2601.98,112.24
+Leschaux,2010,4,7,9,2011,960252.44,109519.83,2380.89,6,9,2012,960204.19,109575.68,2366.62,74.01
+Leschaux,2010,5,7,9,2011,960088.84,109707.46,2339.73,6,9,2012,960046.38,109745.73,2328.18,57.32
