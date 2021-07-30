@@ -23,7 +23,7 @@ simpler models.
 We apply the ARIMA model to our weather dataset, dividing it in train and test (the test data used is from Novenber and December 2019), for which we already have the real values. Comparing test and real values will allow us to evaluate the model's acuracy.
 
 ## Results:
-The prediction and the real values for the period assessed are extremely different, as we can see [**here**]https://public.tableau.com/app/profile/julia.leon4960/viz/Glaciersmelting/Sheet3
+The prediction and the real values for the period assessed are extremely different, as we can see [here]https://public.tableau.com/app/profile/julia.leon4960/viz/Glaciersmelting/Sheet3
 
 ## Conclusion:
 Hypothesis rejected.
